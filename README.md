@@ -5,7 +5,7 @@ Nothing more to see here, _really_.
 
 This is a branch of the readme.
 
-## This is where my data will go
+There is NO data to put there!
 
 There's no actual data yet. Because this is not a real project.
 
